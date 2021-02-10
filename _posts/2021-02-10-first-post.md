@@ -1,5 +1,5 @@
+---
+date: 2021-02-10
 title: first post
-author: adam ashby
-description: a first post
-
+---
 I have nothing to say
