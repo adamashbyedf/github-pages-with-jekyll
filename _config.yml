@@ -1,6 +1,7 @@
 title: Adam's Github Learning Blog
 author: Adam Ashby
 email: adam.ashby@edf-energy.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is what I will have learnt
 
